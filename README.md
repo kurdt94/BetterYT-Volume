@@ -9,3 +9,9 @@ A Basic Chrome Extension that increases volume on youtube videos.
 - How does it work ? 
 	> Volume gain is applied automatically after installing this extension, no need to manually activate or use any volume sliders. 
 
+
+# Installation 	
+- 1) Download this repo as a ZIP file on your computer and unzip it to your folder of choice.
+- 2) Go to chrome://extensions/ , and check the box for Developer mode in the top right. 
+- 3) click the Load unpacked extension button and select the unzipped folder to install.
+
