@@ -15,5 +15,5 @@ A Basic Chrome Extension that increases volume on youtube videos.
 # Installation 	
 - 1) Download this repo as a ZIP file on your computer and unzip it to your folder of choice.
 - 2) Go to chrome://extensions/ , and check the box for Developer mode in the top right. 
-- 3) click the Load unpacked extension button and select the unzipped folder to install.
+- 3) Click the Load unpacked extension button and select the unzipped folder to install.
 
