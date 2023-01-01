@@ -7,7 +7,6 @@ var mutationObserver = new MutationObserver(function (mutations) {
             if (location.href != old_url && hooked == false) {
                 old_url = location.href;
             if(document.querySelector('video') != null ){
-		if(!window.boosterGainNode) {
           		const video = document.querySelector('video');
           		const audioCtx = new AudioContext();
 	  		const mediaSource = audioCtx.createMediaElementSource(video);        
@@ -15,7 +14,6 @@ var mutationObserver = new MutationObserver(function (mutations) {
 	  		mediaSource.connect(gainNode);
           		gainNode.connect(audioCtx.destination);
           		window.boosterGainNode = gainNode;
-    		}
 			window.boosterGainNode.gain.value = parseFloat(gain_val);
 			hooked = true;
 		}
