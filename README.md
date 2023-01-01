@@ -8,6 +8,8 @@ A Basic Chrome Extension that increases volume on youtube videos.
 	> The extension only works on youtube.com, not on embeded videos outside of the youtube domain.
 - How does it work ? 
 	> Volume gain is applied automatically after installing this extension, no need to manually activate or use any volume sliders. 
+- Why is this extension not in the chrome-store ?
+	> Don't have a credit-card, next to not having a credit card. Google is not getting my 5$ !
 
 
 # Installation 	
