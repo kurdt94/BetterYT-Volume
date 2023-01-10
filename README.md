@@ -14,6 +14,7 @@ A Basic Chrome Extension that increases volume on youtube videos. Why ? Youtube 
 
 # Installation 	
 - 1) Download this repo as a ZIP file on your computer and unzip it to your folder of choice.
+- >>	https://github.com/kurdt94/BetterYT-Volume/archive/refs/tags/stable.zip
 - 2) Go to chrome://extensions/ , and check the box for Developer mode in the top right. 
 - 3) Click the Load unpacked extension button and select the unzipped folder to install.
 
