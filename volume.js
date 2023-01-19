@@ -28,7 +28,7 @@ mutationObserver.observe(document.documentElement, {childList: true, subtree: tr
 /*
 Better-YT-Volume 1.0
 created : 2023-01-01
-by: kRDY
+by: kurdt94
 
 Use a default gain value on youtube videos, setting the gain_val higher than '2.0' can result in distorted audio. 
 
